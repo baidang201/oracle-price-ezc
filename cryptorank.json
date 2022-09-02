@@ -1,0 +1,442 @@
+{
+    "data": {
+        "rank": 518,
+        "key": "deeper-network",
+        "name": "Deeper Network",
+        "symbol": "DPR",
+        "type": "token",
+        "icoFullyDilutedMarketCap": 120000000,
+        "marketCap": 30864951.63785747,
+        "availableSupply": 1248593687,
+        "fullyDilutedMarketCap": 247197723.00000003,
+        "unlimitedSupply": false,
+        "totalSupply": 10000000000,
+        "image": {
+            "native": "https://img.api.cryptorank.io/coins/deeper network1614678152926.png",
+            "icon": "https://img.api.cryptorank.io/coins/icon.deeper network1614678152926.png",
+            "x60": "https://img.api.cryptorank.io/coins/60x60.deeper network1614678152926.png",
+            "x150": "https://img.api.cryptorank.io/coins/150x150.deeper network1614678152926.png"
+        },
+        "tokens": [
+            {
+                "platformName": "Ethereum",
+                "platformKey": "ethereum",
+                "platformSlug": "ethereum",
+                "address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
+                "decimals": 18,
+                "standard": "ERC-20"
+            },
+            {
+                "platformName": "BNB",
+                "platformKey": "bnb",
+                "platformSlug": "bnb",
+                "address": "0xA0A2eE912CAF7921eaAbC866c6ef6FEc8f7E90A4",
+                "decimals": 18,
+                "standard": "BEP-20"
+            }
+        ],
+        "category": "Blockchain Service",
+        "categoryId": 4,
+        "tagIds": [
+            14,
+            7,
+            4,
+            13
+        ],
+        "fundIds": [
+            20,
+            45,
+            70,
+            95,
+            72,
+            133
+        ],
+        "isTraded": true,
+        "volume24h": 7141466.9861,
+        "price": {
+            "USD": 0.0247197723,
+            "BTC": 0.0000010576177844,
+            "ETH": 0.00001603246198
+        },
+        "histPrices": {
+            "1Y": {
+                "USD": 0.06972694,
+                "BTC": 0.000002341062,
+                "ETH": 0.0000390703
+            },
+            "YTD": {
+                "USD": 0.09365288,
+                "BTC": 0.000002022174,
+                "ETH": 0.0000254384
+            },
+            "14D": {
+                "USD": 0.026381268515,
+                "BTC": 0.0000013266782649,
+                "ETH": 0.00002359610611
+            },
+            "24H": {
+                "USD": 0.024540364350000003,
+                "BTC": 0.000001111000653,
+                "ETH": 0.000016106666709999997
+            },
+            "30D": {
+                "USD": 0.029172983661,
+                "BTC": 0.0000014694317487,
+                "ETH": 0.00002722122176
+            },
+            "MTD": {
+                "USD": 0.028072278198,
+                "BTC": 0.000001402001271,
+                "ETH": 0.00002595857926
+            },
+            "3M": {
+                "USD": 0.060655222635,
+                "BTC": 0.0000014650598978,
+                "ETH": 0.00001969831162
+            },
+            "6M": {
+                "USD": 0.13079645,
+                "BTC": 0.000003132227,
+                "ETH": 0.0000422415
+            },
+            "7D": {
+                "USD": 0.024704530405,
+                "BTC": 0.0000012670117171,
+                "ETH": 0.00002342074094
+            }
+        },
+        "athPrice": {
+            "BTC": 0.000005491819,
+            "ETH": 0.0001535943,
+            "USD": 0.33468998,
+            "date": "2021-04-12",
+            "dateBTC": "2021-04-12",
+            "dateETH": "2021-04-12"
+        },
+        "atlPrice": {
+            "BTC": 7.729621787000001e-7,
+            "ETH": 0.00001050830613,
+            "USD": 0.022305605043,
+            "dateBTC": "2022-05-12",
+            "dateETH": "2022-05-10",
+            "dateUSD": "2022-05-12"
+        },
+        "volatility": {
+            "USD": 10.8434,
+            "BTC": 13.3167,
+            "ETH": 20.1477
+        },
+        "icoStatus": "past",
+        "watchlistsCount": 45,
+        "links": [
+            {
+                "type": "medium",
+                "value": "https://deeper-network.medium.com/"
+            },
+            {
+                "type": "web",
+                "value": "https://deeper.network/"
+            },
+            {
+                "type": "twitter",
+                "value": "https://twitter.com/deeper_network"
+            },
+            {
+                "type": "facebook",
+                "value": "https://www.facebook.com/deeper.network"
+            },
+            {
+                "type": "youtube",
+                "value": "https://www.facebook.com/deeper.network"
+            },
+            {
+                "type": "reddit",
+                "value": "https://www.reddit.com/r/DeeperNetwork/"
+            },
+            {
+                "type": "telegram",
+                "value": "https://t.me/DeeperNetwork"
+            },
+            {
+                "type": "whitepaper",
+                "value": "https://deeper.network/whitepaper_en.pdf?1615894774988"
+            }
+        ],
+        "crowdsales": [
+            {
+                "id": 1811,
+                "type": "Pre-sale",
+                "showOnlyMonth": false,
+                "lockupPeriod": "15% at listing, then unlock over 10 months",
+                "status": "past",
+                "isClosed": true,
+                "raise": {
+                    "USD": 2525172
+                },
+                "price": {
+                    "USD": 0.006
+                },
+                "hardCap": {
+                    "USD": 2525172
+                }
+            },
+            {
+                "id": 1720,
+                "type": "IDO",
+                "start": "2021-04-05",
+                "end": "2021-04-05",
+                "showOnlyMonth": false,
+                "tokensForSale": 62500000,
+                "lockupPeriod": "30% at listing, then unlock over 10 months",
+                "status": "past",
+                "isCalculateRoiTable": true,
+                "isSponsored": false,
+                "idoPlatformKey": "paid-network",
+                "price": {
+                    "USD": 0.012
+                },
+                "raise": {
+                    "USD": 750000
+                }
+            },
+            {
+                "id": 1721,
+                "type": "IDO",
+                "start": "2021-04-05",
+                "end": "2021-04-05",
+                "showOnlyMonth": false,
+                "tokensForSale": 25000000,
+                "lockupPeriod": "30% at listing, then unlock over 10 months",
+                "status": "past",
+                "isSponsored": false,
+                "idoPlatformKey": "poolz",
+                "price": {
+                    "USD": 0.012
+                },
+                "raise": {
+                    "USD": 300001
+                }
+            },
+            {
+                "id": 1722,
+                "type": "ICO",
+                "start": "2021-04-08",
+                "end": "2021-04-08",
+                "showOnlyMonth": false,
+                "tokensForSale": 275000000,
+                "lockupPeriod": "30% at listing, then unlock over 10 months",
+                "status": "past",
+                "price": {
+                    "USD": 0.02
+                },
+                "raise": {
+                    "USD": 5500000
+                }
+            },
+            {
+                "id": 1810,
+                "type": "Seed",
+                "showOnlyMonth": false,
+                "lockupPeriod": "Around 16% at CEX listing, then unlock over 6 months",
+                "status": "past",
+                "isClosed": true,
+                "price": {
+                    "USD": 0.003
+                },
+                "raise": {
+                    "USD": 2956000
+                }
+            },
+            {
+                "id": 1812,
+                "type": "Private",
+                "showOnlyMonth": false,
+                "lockupPeriod": "15% at listing, then unlock over 10 months",
+                "status": "past",
+                "isClosed": true,
+                "price": {
+                    "USD": 0.008
+                },
+                "raise": {
+                    "USD": 527172
+                }
+            },
+            {
+                "id": 1719,
+                "type": "IEO",
+                "start": "2021-03-22",
+                "end": "2021-03-22",
+                "showOnlyMonth": false,
+                "tokensForSale": 25000000,
+                "lockupPeriod": "30% at listing, then unlock over 10 months",
+                "minMaxPersonalCap": "$100 / $3000 ",
+                "status": "past",
+                "price": {
+                    "USD": 0.012
+                },
+                "raise": {
+                    "USD": 300000
+                }
+            }
+        ],
+        "mineable": true,
+        "description": "<p>Deeper strives for true decentralization and internet democracy. True decentralization means that no single organization can dominate at all levels of the network, nor that any single point of failure will affect the overall network. Decentralized public chains, decentralized applications, and decentralized gateways are indispensable. For example, the current Ethereum Network is still centralized at the gateway level and is overly dependent on the API interface services provided by Infura for major dApps. Infura itself relies on AWS cloud services provided by Amazon. This means that the Ethereum ecosystem cannot be truly distinguished from a centralized network structure, and naturally, the disadvantages of the centralized network structure remain. The recent Infura downtime reaffirms this as it has led to the paralysis of most Ethereum dApps. Deeper Network is building decentralization at every level of the stack, from a decentralized public chain in the Deeper Chain to a decentralized gateway in the Deeper Connect, Deeper is laying the groundwork for the next generation of the internet.</p><p><br></p><p><strong>Deeper Token Use Cases&nbsp;</strong></p><p><strong>1. DPN (Decentralized Private Network)</strong></p><p>DPN is a P2P decentralized bandwidth sharing network.</p><p><strong>DPR use case:</strong></p><p>Users earn DPR tokens via sharing their&nbsp;idle bandwidth. Traditional P2P network models lack effective economic incentives, which leads to an imbalance between bandwidth usage and bandwidth consumption in practice. Compared to traditional P2P networks, DPR incentivizes users to actively contribute bandwidth to the network thus making the overall network more robust and performant for everyone.</p><p><strong>2. Decentralized DNS Services</strong></p><p>DNS is the architecture for resolving IP addresses and querying the Internet. Having a centralized DNS infrastructure makes the Internet extremely fragile, and prone to censorships and attacks. Decentralized DNS services help to make the Internet more democratic and prevent the open internet from being controlled by a single entity.</p><p><strong>DPR use case:</strong></p><p>Users can use DPR to purchase decentralized domain names anonymously on the Deeper chain, and have complete ownership over it instead of leasing it through ICANN. Users can also obtain their own cryptographic keys for digital signatures, essentially eliminating the need for third-party CAs.</p><p><strong>3. Decentralized Cyber Security Services</strong></p><p>Each Deeper node is a next-generation firewall (NGFW), serving to prevent network attacks via network scanning: overflow attacks, injection attacks, denial of service attacks, and so on.</p><p><strong>DPR use case:</strong></p><p>Users pay DPR to purchase Deeper nodes on-demand as their home firewall to hide their IP address and prevent various network attacks. Users can safely set up websites on the Deeper Network infrastructure without needing to worry about websites being scanned, blocked, or attacked.</p><p>DPR can also be used for OS updates, security database updates, and security subscription services. On the flip side, a node can earn DPR tokens if it contributes to network security, such as discovering malicious behaviors on the network.</p><p><strong>4. Decentralized Gateway Services（dApp store）</strong></p><p>Deeper Connect is a decentralized gateway to web3.0. True decentralization means that no single organization can dominate over the entire network. It also means that a single point of failure will affect the functioning of the entire network. Decentralized gateways, decentralized public chains, and decentralized applications. For example, Ethereum Network remains centralized at the gateway level and is overly dependent on the API interface services provided by Infura for major dApps. Infura itself relies on AWS cloud services provided by Amazon. This means that the Ethereum ecosystem cannot be uncoupled from centralized network structures and is not truly decentralized. This naturally lends itself to the pitfalls of centralized network structures. This is evident as the recent Infura downtime has led to the paralysis of most Ethereum dApps. Deeper, on the other hand, has achieved true decentralization on all levels: decentralized gateways, decentralized public chains, and decentralized applications.</p><p>Not only can Deeper Connect users securely access various decentralized network services provided by Deeper Network, but they can also seamlessly access various third-party dApp applications, such as decentralized storage services in the Polkadot ecosystem or DeFi services such as exchanges. We can take the iPhone as an analogy:</p><p>1. Deeper’s Deeper Connect hardware is akin to the iPhone hardware</p><p>2. Deeper’s built-in DPN and other applications are akin to iPhone’s built-in apps such as phone, email, etc.</p><p>3. Deeper’s dApp store is akin to the iPhone’s App Store</p><p>The difference is that iPhone provides users with a centralized Internet gateway, whereas Deeper Connect provides users with a decentralized web3.0 gateway.</p><p><strong>DPR use case:</strong></p><p>Third-party developers need to stake a certain amount of DPR tokens to have their dApps hosted within the Deeper ecosystem. At the same time, third-party dApps must be able to accept DPR as a means of payment for services, and Deeper takes a percentage of DPR revenue as a service fee.</p><p><strong>Other Use Cases for DPR Tokens</strong></p><p><strong>Staking:</strong>&nbsp;Nodes can increase the speed of credit accumulation as part of the PoC consensus algorithm by staking more DPR to improve mining efficiency.</p><p><strong>As gas for smart contracts:</strong>&nbsp;Deeper Chain is a Turing complete public chain that can run smart contracts. Deeper Chain provides the world’s first decentralized credit system based on the PoC consensus algorithm. Secure sharing economy, DeFi applications, or other credit-related dApp can be developed based on this credit system.</p>",
+        "shortDescription": "Deeper Network provides the foundational infrastructure services for Web 3.0 with Deeper’s decentralized DNS and Deeper’s decentralized CDN.",
+        "notification": null,
+        "histData": {
+            "high": {
+                "1Y": {
+                    "BTC": 0.000004131382,
+                    "ETH": 0.00006985140000000001,
+                    "USD": 0.21950802
+                },
+                "3M": {
+                    "BTC": 0.0000022906179345999998,
+                    "ETH": 0.00003780607599,
+                    "USD": 0.074035209077
+                },
+                "3Y": {
+                    "BTC": 0.000005491819,
+                    "ETH": 0.0001535943,
+                    "USD": 0.33468998
+                },
+                "6M": {
+                    "BTC": 0.000003142726,
+                    "ETH": 0.0000444823,
+                    "USD": 0.13154121
+                },
+                "7D": {
+                    "BTC": 0.000001290104808,
+                    "ETH": 0.00002402603494,
+                    "USD": 0.025222046183
+                },
+                "14D": {
+                    "BTC": 0.0000013466845101,
+                    "ETH": 0.00002422152394,
+                    "USD": 0.027071542817
+                },
+                "24H": {
+                    "BTC": 0.0000011360414269,
+                    "ETH": 0.00001630337629,
+                    "USD": 0.024921487284
+                },
+                "30D": {
+                    "BTC": 0.0000015124975717,
+                    "ETH": 0.00002795280288,
+                    "USD": 0.031502963515
+                },
+                "YTD": {
+                    "BTC": 0.000003433109,
+                    "ETH": 0.0000447451,
+                    "USD": 0.14781348
+                }
+            },
+            "low": {
+                "1Y": {
+                    "BTC": 7.729621787000001e-7,
+                    "ETH": 0.00001050830613,
+                    "USD": 0.022305605043
+                },
+                "3M": {
+                    "BTC": 7.729621787000001e-7,
+                    "ETH": 0.00001050830613,
+                    "USD": 0.022305605043
+                },
+                "3Y": {
+                    "BTC": 7.729621787000001e-7,
+                    "ETH": 0.00001050830613,
+                    "USD": 0.022305605043
+                },
+                "6M": {
+                    "BTC": 7.729621787000001e-7,
+                    "ETH": 0.00001050830613,
+                    "USD": 0.022305605043
+                },
+                "7D": {
+                    "BTC": 0.0000010397581341,
+                    "ETH": 0.0000153502653,
+                    "USD": 0.022942417208
+                },
+                "14D": {
+                    "BTC": 0.0000010397581341,
+                    "ETH": 0.0000153502653,
+                    "USD": 0.022942417208
+                },
+                "24H": {
+                    "BTC": 0.0000010397581341,
+                    "ETH": 0.00001555344086,
+                    "USD": 0.024236113048
+                },
+                "30D": {
+                    "BTC": 0.0000010397581341,
+                    "ETH": 0.0000153502653,
+                    "USD": 0.022942417208
+                },
+                "YTD": {
+                    "BTC": 7.729621787000001e-7,
+                    "ETH": 0.00001050830613,
+                    "USD": 0.022305605043
+                }
+            }
+        },
+        "icoData": {
+            "tokenRole": "Utility",
+            "additionalLinks": [
+                {
+                    "href": "https://paidnetwork.medium.com/deeper-network-ido-on-ignition-march-23-2021-863de225661a",
+                    "title": "Deeper Network on Ignition"
+                },
+                {
+                    "href": "https://flybit.zendesk.com/hc/en-us/articles/900004786406--Flybit-WoW-DEEPER-NETWORK-Token-Sale",
+                    "title": "Deeper Network on Flybit "
+                },
+                {
+                    "href": "https://medium.com/poolz/deeper-network-ido-on-poolz-rescheduled-709f68c9b655",
+                    "title": "Deeper Network IDO on Poolz Rescheduled"
+                },
+                {
+                    "href": "https://paidnetwork.medium.com/deeper-network-ido-postponed-c637466fe7c4",
+                    "title": "Deeper Network IDO on Ignition Postponed"
+                },
+                {
+                    "href": "https://deeper-network.medium.com/top-faqs-on-deeper-network-public-sale-on-tokensoft-3949c92398ce",
+                    "title": "Top FAQs on Deeper Network Public Sale on Tokensoft"
+                }
+            ],
+            "allocationChart": [
+                {
+                    "title": "Mining",
+                    "percent": 60
+                },
+                {
+                    "title": "Private Sale",
+                    "percent": 20
+                },
+                {
+                    "title": "Team & Investors",
+                    "percent": 10
+                },
+                {
+                    "title": "Market Operation & Cooperation & Token Treasure",
+                    "percent": 5
+                },
+                {
+                    "title": "Core User IDO ",
+                    "percent": 5
+                }
+            ]
+        },
+        "tickersCount": 7,
+        "exchangesCount": 5,
+        "newsCount": 1,
+        "hasTickers": true,
+        "chartTicker": {
+            "id": 644397,
+            "baseSymbol": "DPR",
+            "quoteSymbol": "USDT",
+            "exchangeKey": "kucoin",
+            "exchangeName": "Kucoin",
+            "last": 0.02479
+        }
+    }
+}
