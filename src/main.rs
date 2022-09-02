@@ -442,7 +442,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     // .text()
     // .await?;
     // let complete_res: RaceAndCompleteRes = serde_json::from_str(&resp)?;
-    log::info!("Complete task request result: {:?}", complete_res);
+    // log::info!("Complete task request result: {:?}", complete_res);
     Ok(())
 }
 
