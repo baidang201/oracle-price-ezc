@@ -413,12 +413,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     log::info!("Got price: {}", p);
     let wallet = LocalWallet::decrypt_keystore("/eth.keystore", "VGPUmPKNtBzDvCJK")?;
     // let wallet = LocalWallet::decrypt_keystore("../web3d/key/eth.keystore", "VGPUmPKNtBzDvCJK")?;
-    let transport = web3::transports::Http::new("https://mainnet-dev.deeper.network/rpc")?;
+    let transport = web3::transports::Http::new("https://mainnet.deeper.network/rpc")?;
     let web3 = web3::Web3::new(transport);
     let eth = web3.eth();
     let contract = Contract::from_json(
         eth,
-        hex!("862AF0CF4397C06B4B76288c97aBefdF3eD5F121").into(),
+        hex!("553d4A71C872dC55cd1925D77Fa8974e186f307F").into(),
         include_bytes!("../abi.json"),
     )?;
     let reciept = contract
